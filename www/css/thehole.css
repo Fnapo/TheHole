@@ -1,0 +1,12 @@
+body {
+    font-size: 20px;
+    background-color: black;
+}
+
+.agitado { 
+    background-color: yellow; 
+}
+
+.rojo { 
+    background-color: darkred; 
+}
